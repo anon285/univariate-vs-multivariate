@@ -1,0 +1,6 @@
+Exchange_96_192_Autoformer_custom_ftM_sl96_ll48_pl192_dm512_nh8_el2_dl1_df2048_fc3_ebtimeF_dtTrue_Exp_0  
+mse:0.27246272563934326, mae:0.3814676105976105
+
+Exchange_96_192_Autoformer_custom_ftM_sl96_ll48_pl192_dm512_nh8_el2_dl1_df2048_fc3_ebtimeF_dtTrue_Exp_0  
+mse:0.3650432229042053, mae:0.43737438321113586
+
